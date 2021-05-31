@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "401c5fe02f342df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc3966a99513d74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estadistica computacional/Tema 4.md",
+            "mode": "source"
+          }
+        },
+        "group": "6652b6b0d036426f"
+      },
+      {
+        "id": "140ac042fd92632c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Estadistica computacional/Tema 4.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6652b6b0d036426f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bceedd2d052c8a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d7f3e6881713227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcec191fb4660a93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecf9e00fc068a1cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193
+  },
+  "right": {
+    "id": "2df2a75f7773bd1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eed757dd8a013122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f140d99296f83a74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estadistica computacional/Tema 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "44b92d6c80312262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241676611e18bb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estadistica computacional/Tema 4.md",
+                "mode": "preview"
+              }
+            },
+            "group": "6652b6b0d036426f"
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "140ac042fd92632c",
+  "lastOpenFiles": [
+    "Estadistica computacional/Tema 4.md",
+    "Notas txt Caso 2.md",
+    "Tarea Osi 2.5.'21.md",
+    "Notas clase 3.5.'21.md",
+    "FuerzasdePtr.png",
+    "Estadistica computacional/Tema 1 - Medidas de Tendencia y Dispersion.md",
+    "Estadistica computacional/Tema 1 - Analisis exploratorio de datos.md",
+    "Estadistica computacional/Tema 3.md",
+    "Estadistica computacional/boxplot_img.png",
+    "Untitled.md"
+  ]
+}
