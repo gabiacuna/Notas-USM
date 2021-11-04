@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "0735ccf85c43104f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59db309f71b4545d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AyDS/Entrega 1.md",
+            "mode": "source"
+          }
+        },
+        "group": "d4bf5ff78059e747"
+      },
+      {
+        "id": "6d116901b1b141ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AyDS/Entrega 1.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d4bf5ff78059e747"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9da8a9b4bb027c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9042d014b9fbfc91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e95ad1d6533c51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c81e3fc411971f11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "paralelis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "c983aaf24f64c83d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01be9a53c214d7b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca264fa49ad2467",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AyDS/Entrega 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cec03463517c084b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59db309f71b4545d",
+  "lastOpenFiles": [
+    "AyDS/Entrega 1.md",
+    "AyDS/Data Mapper.md",
+    "AyDS/Clase 3 - Diagrama de Secuencia.md",
+    "SO/Ayu 6.md",
+    "SO/Ayu 5.md",
+    "SO/Implementación.md",
+    "SO/Hebras.md",
+    "SO/TCB.md",
+    "SO/Paso de Mensajes.md",
+    "SO/Stack.md"
+  ]
+}
