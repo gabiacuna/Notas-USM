@@ -4,6 +4,8 @@ Similar a la PCB para los procesos, la TCB, es una estructura de datos que guard
 
 Guarda los datos del conexto de la hebra.
 
+> Esta en el **kernel**!!!
+
 ![[Pasted image 20211103223704.png]]
 
 Las hebras que son del mismo proceso, comparten info de este. Pero de todas formas cada una es independiente y tiene su propio entorno de ejecución.

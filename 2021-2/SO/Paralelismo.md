@@ -1,4 +1,4 @@
-Ejecutar más de una tarea simultáneamente.
+Ejecutar más de una tarea simultáneamente. -> se ejecutan al mismo tiempo.
 
 ![[Pasted image 20211103180002.png]]
 
