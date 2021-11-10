@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59db309f71b4545d",
+        "id": "2cdcaa6f10deae81",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AyDS/Entrega 1.md",
+            "file": "AyDS/Reunion con el cliente.md",
             "mode": "source"
           }
-        },
-        "group": "d4bf5ff78059e747"
-      },
-      {
-        "id": "6d116901b1b141ea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AyDS/Entrega 1.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d4bf5ff78059e747"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "c983aaf24f64c83d",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AyDS/Entrega 1.md",
+                "file": "AyDS/Reunion con el cliente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +81,7 @@
             }
           },
           {
-            "id": "cec03463517c084b",
+            "id": "dc8a60684c53f568",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -107,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59db309f71b4545d",
+  "active": "2cdcaa6f10deae81",
   "lastOpenFiles": [
+    "AyDS/Reunion con el cliente.md",
+    "Introduction to Genomic Technologies/S4 03 Central Dogma of Statistics.md",
+    "Introduction to Genomic Technologies/S3 06 Computional Biology Sw.md",
+    "SO/Cap 5 - Planificación de uso de CPU.md",
     "AyDS/Entrega 1.md",
     "AyDS/Data Mapper.md",
     "AyDS/Clase 3 - Diagrama de Secuencia.md",
     "SO/Ayu 6.md",
     "SO/Ayu 5.md",
-    "SO/Implementación.md",
-    "SO/Hebras.md",
-    "SO/TCB.md",
-    "SO/Paso de Mensajes.md",
-    "SO/Stack.md"
+    "SO/Implementación.md"
   ]
 }
