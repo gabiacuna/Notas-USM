@@ -1,4 +1,5 @@
 # Def
+> Nos permiten separar un proceso en dos o más tareas que pueden ejecutarse de manera concurrente ( o paralela si se cuenta con el hw correspondiente). Eso permite que el tiempo dee cómputo sel proceso disminuya, y se aprovechen de mejor manera los recursos que nos brinda nuestra máquina. Además, permite que algunos procesos se puedan escalar de manera eficiente.
 
 Todas las aplicaciones modernas se estan construyendo al uso de las hebras.
 

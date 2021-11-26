@@ -1,0 +1,1 @@
+Ya no hay kahoot, este cap es más para ejercicios

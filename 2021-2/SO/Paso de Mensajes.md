@@ -10,6 +10,8 @@ Esto es muy parecido a la mirada de los pipes. De esto derivan diferentes implem
 
 ![[Pasted image 20211025173047.png]]
 
+🐞 Cuenado es directo y sincrono, es un mecanismo de sicncronización!!!
+
 ## Indirecto
 
 Un buzon es una región de memoría igual.

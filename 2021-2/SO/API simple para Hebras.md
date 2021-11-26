@@ -5,7 +5,8 @@ La mayoría tienen practicamente las mismas funciones. Hay que descargar las bib
 # Funciones: 
 ![[Pasted image 20211103124827.png]]
 ![[Pasted image 20211103124838.png]]
-
+![[Pasted image 20211104212730.png]]
+El exit lo guarda y el join lo retorna. yield interrumpe la hebra.
 ## Ejemplo
 El static es para evitar que las hebras se modifiquen entre ellas.  
 

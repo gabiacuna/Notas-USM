@@ -1,5 +1,7 @@
 # FCFS
 
+> La CPU se asigna a la tarea que llegue primero
+
 ![[Pasted image 20211108175105.png]]
 \* Burst Time es el tiempo de CPU
 
@@ -11,8 +13,9 @@
 ![[Pasted image 20211108175131.png]]
 
 Si consideramos el tiempo de ejecución,
+
 | | Tiempo de Respuesta |
-|---|---|
+|--- |--- |
 | P1 | 24 |
 | P2 | 27 |
 | P3 | 30 |

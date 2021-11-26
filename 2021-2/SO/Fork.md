@@ -2,6 +2,8 @@
 
 [GfG](https://www.geeksforgeeks.org/fork-system-call/)
 
+![[Pasted image 20211012094159.png]]
+
 > Es una llamada al sistema, para crear un nuevo proceso, que se llama proceso hijo del proceso original. 
 
 - No recibe parametros
@@ -11,3 +13,4 @@
 	- **>0** : Retornado al padre, el valor es el pid del nuevo hijo creado.
 
 ![[Pasted image 20211021170611.png]]
+

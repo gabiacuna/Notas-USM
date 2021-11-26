@@ -32,7 +32,7 @@ Ejemplos de llamadas a sistema:
 *	mkdir
 *	fopen
 *	fwrite
-*	fork
+*	[[fork]]
 
 # Secuencia de una llamada a sistema
 
@@ -51,7 +51,7 @@ Los so modernos necesiran una una manera de estructurar los servicios. Dos de el
 2. Micro Kernel : intenta alivianarle la pega al kernel y tirar todos los servicios posibles al modo usuario.
 
 ## Ventajas y desventajas
-|| Kernel Monolítico | Micro Kernel |
+|| [[Kernel Monolitico]] | [[Micro Kernel]] |
 |---| --- | --- |
 |**Ventajas**| Mayor rendimiento para gestionar servicios, debido a que nos se pasa todo el rato entre kernel y usuario. | Se minimiza la probabilidad de que falle el kernel. Tmb es más facil de extender. |
 |**Desventajas**| Si se produce un error en modo kernel es necesario reiniciar el sistema| Se produce overhead producto de la cte comunicación entre modo kernel y modo usuario. |
@@ -79,7 +79,7 @@ ej:
 7. Las llamadas al sistema se usan para acceder a los servicios del so.
 8. El cambio de contexto de raliza con la intervencion del so.
 9. HAL (_hw abstraction layer_) impacta en la portabilidad. Es una api que abstrae el hw, ahora son fx y me desentiendo de interactuar directamente con el hw.
-10. El Hal necesita drivers para comunicarse con hw nuevo. Los drivers le dicen como usar el hw nuevo. Para asegurar la portabilidad de kernel monolitico es necesario el HAL y los drivers.
+10. El Hal necesita drivers para comunicarse con hw nuevo. Los drivers le dicen como usar el hw nuevo. Para asegurar la portabilidad de [[kernel monolitico]] es necesario el HAL y los drivers.
 11. Cuando se virtualiza un so guest si puede hacer llamadas al sistema. Para hacerlo, se comunica con el host que le da permisos para hacerlas (le traspasa la comunicación al kernel).
 12. Sobre la virtualización:
 	1. Beneficios:
