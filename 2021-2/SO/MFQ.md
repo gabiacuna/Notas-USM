@@ -1,10 +1,10 @@
 # Multi Level Feedback Queue
 
-Son una extención de Round Robin. Un RR con un quantum pequeño nos permite bajar el tiempo de respuesta de las tareas.
+Son una extención de [[Round Robin]]. Un RR con un quantum pequeño nos permite bajar el tiempo de respuesta de las tareas.
 
 - implementar varias colas con algoritmos distintos
 - Es __apropiativa__!
-- Si un proceso termina antes de que se acabe el q y se pone a hacer E/S no se va a cambiar de cola????
+- Si un proceso termina antes de que se acabe el q y se pone a hacer E/S no se va a cambiar de cola (entra a la misma cola de la que salió).
 
 ![[Pasted image 20211115172914.png]]
 
@@ -24,3 +24,5 @@ plani:
 ![[Pasted image 20211115175533.png]]
 
 ![[Pasted image 20211115175908.png]]
+
+![[ejercicio.jpg]]

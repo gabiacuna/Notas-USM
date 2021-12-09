@@ -14,14 +14,20 @@
 
 Si consideramos el tiempo de ejecución,
 
-| | Tiempo de Respuesta |
+| | Tiempo de Ejecución|
 |--- |--- |
 | P1 | 24 |
 | P2 | 27 |
 | P3 | 30 |
 
-Y el tiempo de ejec promedio sería $\frac{81}{3}$
+Y el tiempo de ejec promedio sería $\frac{81}{3} = 27$
 
-Fifo tiene efecto convoy:
+Ahora si modificamos el orden de entrada de los procesos:
 
 ![[Pasted image 20211108175632.png]]
+
+## Convoy Effect
+
+Toda la cola se toma mas tiempo y retrasa, solo por un par de procesos lentos. En este caso, el tiempo de espera promedio es mucho mayor si se ejecuta primero el proceso más grande. 
+
+[Convoy Effect in Operating Systems - GeeksforGeeks](https://www.geeksforgeeks.org/convoy-effect-operating-systems/)

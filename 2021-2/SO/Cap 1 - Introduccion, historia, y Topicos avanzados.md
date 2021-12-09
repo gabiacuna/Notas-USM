@@ -63,11 +63,9 @@ El so debe trabajar muy coordinadamente con el hardware, ejemplo hiperthreading 
 
 nos permiten programar procesos en paralelos. en el capitulo 4 programaremos con hebras (simple threads c).
 
-### Caché
+### [[Caché]]
 
-Mejora el desempeño del sistema en la ejecucion de ciertos programas. 
 
-> ==Toda esta materia es introductoria y se revisara a lo largo del ramos uwu==
 
 \* Revisar textos guía
 

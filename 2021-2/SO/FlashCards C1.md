@@ -1,4 +1,4 @@
-#deck1
+#deckC1
 
 #SO 
 # V/F
@@ -8,7 +8,7 @@
 El vector de interrupciones determina la causa del evento a través de un registro especial. ::: Falso: determina la causa según la dirección del vector a la cual se transfiere el control.
 <!--SR:!2021-11-12,11,230!2021-11-29,24,261-->
 
-La memoria caché constituye la memoria más rápida de un sistema computacional. ::: Falso: La memoria más rápida son los registros. -> Los de la CPU!
+La memoria [[caché]] constituye la memoria más rápida de un sistema computacional. ::: Falso: La memoria más rápida son los registros. -> Los de la CPU!
 <!--SR:!2021-12-04,33,281!2021-12-15,40,281-->
 
 Multiprogramación es lo mismo que multiprocesamiento.::: Falso: Multiprocesamiento requiere la existencia de varios procesadores.
