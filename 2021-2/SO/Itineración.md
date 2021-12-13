@@ -10,6 +10,8 @@ No es lo mismo tener un proceso que este usando el 100% de la cpu, a tener 10 pr
 
 - ![[Pasted image 20211011202246.png]]
 
+## itineradores
+
 ![[Pasted image 20211011202426.png]]
 MP : Memoria principal -> RAM
 Tambien puede haber un itinerador a mediano plazo. 

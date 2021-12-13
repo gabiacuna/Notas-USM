@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,52 +8,10 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:AyDS",
+      "query": "path:SO",
       "color": {
         "a": 1,
-        "rgb": 10543186
-      }
-    },
-    {
-      "query": "path:LP",
-      "color": {
-        "a": 1,
-        "rgb": 10904313
-      }
-    },
-    {
-      "query": "path:personal",
-      "color": {
-        "a": 1,
-        "rgb": 16756205
-      }
-    },
-    {
-      "query": "path:AyC",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:Opti",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Infsoc",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#SO",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 5431008
       }
     }
   ],
@@ -62,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792587,
+  "scale": 0.698960641293814,
   "close": false
 }
