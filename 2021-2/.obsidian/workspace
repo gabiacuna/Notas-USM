@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Infsoc/Act 2.md",
+            "file": "AyDS/Presentacion Web.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
+    "width": 211.5,
     "collapsed": true
   },
   "right": {
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infsoc/Act 2.md",
+                "file": "AyDS/Presentacion Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "cec03463517c084b",
+            "id": "ec4e52cb6a0056fc",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -97,15 +97,15 @@
   },
   "active": "5a8aff03fa2af71e",
   "lastOpenFiles": [
+    "AyDS/Presentacion Web.md",
+    "AyDS/C2.md",
+    "AyDS/Estructural objeto relacional.md",
+    "AyDS/Reposotory.md",
+    "AyDS/Data Mapper.md",
+    "AyDS/Active Record.md",
+    "AyDS/ORM.md",
+    "AyDS/Mvc.md",
     "Infsoc/Act 2.md",
-    "SO/Ayu 9.md",
-    "SO/Ayu 8.md",
-    "SO/Semáforos.md",
-    "SO/MFQ.md",
-    "SO/Banquero - Evadir.md",
-    "SO/Modo Dual de Ejecución.md",
-    "SO/Round Robin.md",
-    "SO/Evasión para deadlocks.md",
-    "SO/Mecanismo de recuperación.md"
+    "SO/Ayu 9.md"
   ]
 }
