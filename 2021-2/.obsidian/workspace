@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5a8aff03fa2af71e",
+        "id": "5e3654bd790af5ab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AyDS/Presentacion Web.md",
+            "file": "Infsoc/C2.md",
+            "mode": "preview"
+          }
+        },
+        "group": "db54bc06be3819ab"
+      },
+      {
+        "id": "dd4822f7112bdd04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Infsoc/C2.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "db54bc06be3819ab"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "round",
+                "query": "BD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 211.5
   },
   "right": {
     "id": "c983aaf24f64c83d",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AyDS/Presentacion Web.md",
+                "file": "Infsoc/C2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +93,7 @@
             }
           },
           {
-            "id": "ec4e52cb6a0056fc",
+            "id": "3cfee2654abe677b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -95,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a8aff03fa2af71e",
+  "active": "dd4822f7112bdd04",
   "lastOpenFiles": [
-    "AyDS/Presentacion Web.md",
+    "Infsoc/C2.md",
+    "Práctica/16-dic-2021.md",
+    "AyDS/Template view.md",
+    "AyDS/Transform View.md",
+    "AyDS/Front controller.md",
     "AyDS/C2.md",
-    "AyDS/Estructural objeto relacional.md",
-    "AyDS/Reposotory.md",
-    "AyDS/Data Mapper.md",
-    "AyDS/Active Record.md",
-    "AyDS/ORM.md",
+    "AyDS/Page Controller.md",
     "AyDS/Mvc.md",
-    "Infsoc/Act 2.md",
-    "SO/Ayu 9.md"
+    "AyDS/Active Record.md",
+    "AyDS/Data Mapper.md"
   ]
 }
