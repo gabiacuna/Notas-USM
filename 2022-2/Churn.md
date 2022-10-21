@@ -1,0 +1,1 @@
+chrun rate -> tasa de abandono o cancelación. Mide la cantidad de entidades que un sistema ha perdido en un periodo de tiempo.
