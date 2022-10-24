@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "4ddc01d72128e4cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5a8a11bc90cd95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bffec7bbb03225c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exclusión mutua.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ab9cbe07d461760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relojes físicos.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d22bebfdeed77b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sincronización de relojes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "947dc69659c00893",
+    "type": "split",
+    "children": [
+      {
+        "id": "27821b784a9a49cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5fce7e68a4e750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ddf4e0cf77776d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd8624a536d4fd29",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "50e6adffc4a5d9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coordinación.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "529cad46c200dd3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a24516c04c68f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06984631d090281a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exclusión mutua.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49379f9b5870386f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Exclusión mutua.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec58327b5b43a86a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "732984ac8aa4a20e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exclusión mutua.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "bffec7bbb03225c3",
+  "lastOpenFiles": [
+    "Sincronización de relojes.md",
+    "Relojes físicos.md",
+    "Exclusión mutua.md",
+    "Coordinación.md",
+    "Relojes lógicos.md",
+    "photos/Pasted image 20221023130624.png",
+    "photos/Pasted image 20221023134305.png",
+    "photos/Pasted image 20221023133740.png",
+    "photos/Pasted image 20221023131633.png",
+    "Sistemas de nombres.md"
+  ]
+}

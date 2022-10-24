@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "photos",
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX"
+  ]
+}

@@ -11,7 +11,7 @@ Se define una prioridad de eventos de forma aleatoria.
 
 - [[Relojes físicos]]
 - [[Sincronización de relojes]]
-- Relojes lógicos
-- Exclusión mutua
+- [[Relojes lógicos]]
+- [[Exclusión mutua]]
 - Algoritmos de elección
 - Consenso
