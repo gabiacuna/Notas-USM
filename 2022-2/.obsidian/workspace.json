@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exclusión mutua.md",
-                "mode": "preview",
+                "file": "Consenso.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exclusión mutua.md",
+                "file": "Consenso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exclusión mutua.md",
+                "file": "Consenso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exclusión mutua.md"
+                "file": "Consenso.md"
               }
             }
           }
@@ -177,15 +177,15 @@
   },
   "active": "bffec7bbb03225c3",
   "lastOpenFiles": [
+    "Coordinación.md",
+    "Consenso.md",
+    "Algoritmos de elección.md",
+    "Exclusión mutua.md",
     "Sincronización de relojes.md",
     "Relojes físicos.md",
-    "Exclusión mutua.md",
-    "Coordinación.md",
     "Relojes lógicos.md",
     "photos/Pasted image 20221023130624.png",
     "photos/Pasted image 20221023134305.png",
-    "photos/Pasted image 20221023133740.png",
-    "photos/Pasted image 20221023131633.png",
-    "Sistemas de nombres.md"
+    "photos/Pasted image 20221023133740.png"
   ]
 }

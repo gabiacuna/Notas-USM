@@ -6,12 +6,12 @@ Se define una prioridad de eventos de forma aleatoria.
 ## Importancia del tiempo
 
 ✔️ Consistencia de los datos distribuidos.
-✔️ Múltiples procesos no acceden simultaneamente a un recurso compartido.
-✔️ Es posible que varios procecsos deban ponerse de acuerdo sobre el orden de los eventos.
+✔️ Múltiples procesos no acceden simultáneamente a un recurso compartido.
+✔️ Es posible que varios procesos deban ponerse de acuerdo sobre el orden de los eventos.
 
 - [[Relojes físicos]]
 - [[Sincronización de relojes]]
 - [[Relojes lógicos]]
 - [[Exclusión mutua]]
-- Algoritmos de elección
-- Consenso
+- [[Algoritmos de elección]]
+- [[Consenso]]

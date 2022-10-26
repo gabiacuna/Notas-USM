@@ -55,7 +55,7 @@ Cons:
 ### Algoritmo distribuido usando relojes de Lamport
 ![[Pasted image 20221023211634.png]]
 
-## Algotirmo de red en anillo (token-ring)
+## Algoritmo de red en anillo (token-ring)
 
 - Se construye una red superpuesta en forma de anillo lógico. Nuevamente solo escribe quien tiene el token. 
 - No existe el orden de petición, solo orden en el que se pasa el token.
@@ -69,7 +69,10 @@ Peor caso: Espere que todos los demás procesos que usan el recurso antes de rec
 - Detectar fallas es difícil.
 - Tiempo ilimitado entre entregar el token (se puede quedar estancado).
 
-### Algoritmo de votación
+## Algoritmo de votación
 
 Cada proceso puede votar por solo un recurso, necesitamos overlap entre votantes!. 
-Para $N$ nodos necesito $\sqrt{N}$.
+Para $N$ nodos necesito $\sqrt{N}$ -> No necesito que todos los procesos me den acceso, solo un subconjunto.
+
+
+![[Pasted image 20221025161217.png]]
